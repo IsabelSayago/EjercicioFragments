@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ejercicio Fragments</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="btnNextText">Next</string>
+    <string name="btnChangeText">Change text</string>
+    <string name="textFragment2">Old text</string>
+    <string name="editText">Type your name</string>
+</resources>
